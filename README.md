@@ -19,3 +19,17 @@
 
    Optional:
    Sukurkite naują mygtuką reset ir funkciją jam kuri pakeistų kiekio laukelio reikšmę į 1 iš bet kurios prieš tai buvusios reikšmės.
+   
+## 2020-07-02
+
+
+1. Sukurti mygtuką "rodyti", kurį paspaudus būtų atvaizduojama mūsų testinė lentelė.
+   Optional
+   Paspaudus mygtuką pakeiskite jo tekstą į "slėpti", o paspaudus jį panaikinkite lentelės rodymą.
+
+2. HTML faile sukurkite mygtuką "skaičiuoti", o JavaScript faile masyvą, kuriame būtų ne mažiau nei 15 skirtingų skaičių. 
+   Mygtuko paspaudimui sukurkite funkciją, kurioje paleidę ciklą sudėtume visus masyvo skaičius į bendrą sumą. 
+
+3. Panaudokite "switch" metodą realybėje. HTML faile sukurkite "select" laukelį ir priskirkite jam "options" parametrus su "value" reikšmėmis. 
+   Šalia jo sukurkite mygtuką tikrinti, o jo paspaudimui - "Įvykį" (event). Iššauktoje funkcijoje paimkite "select" laukelio reikšmę ir įstatę į "switch" metodą atvaizduokite žinutę. 
+   Pastarosios tekstas turi būti skirtingas pagal "select" laukelio reikšmę.        
