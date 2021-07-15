@@ -33,3 +33,7 @@
 3. Panaudokite "switch" metodą realybėje. HTML faile sukurkite "select" laukelį ir priskirkite jam "options" parametrus su "value" reikšmėmis. 
    Šalia jo sukurkite mygtuką tikrinti, o jo paspaudimui - "Įvykį" (event). Iššauktoje funkcijoje paimkite "select" laukelio reikšmę ir įstatę į "switch" metodą atvaizduokite žinutę. 
    Pastarosios tekstas turi būti skirtingas pagal "select" laukelio reikšmę.        
+   
+## 2020-07-15
+
+	https://docs.google.com/document/d/1Xb9TzUm5FArm1dKoEIotw0roQJfRmE9n5nTM1nkGrzg/edit
