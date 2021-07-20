@@ -37,3 +37,6 @@
 ## 2020-07-15
 
 	https://docs.google.com/document/d/1Xb9TzUm5FArm1dKoEIotw0roQJfRmE9n5nTM1nkGrzg/edit
+
+## 2020-07-20
+	https://docs.google.com/document/d/1rO3Me79NH_g5elpoGuYvTn-ucxaWVBkIuuZyr3ln82k/edit
